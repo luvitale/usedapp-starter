@@ -20,12 +20,4 @@
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
   },
-  "references": [
-    {
-      "path": "../core"
-    },
-    {
-      "path": "../coingecko"
-    }
-  ]
 }
